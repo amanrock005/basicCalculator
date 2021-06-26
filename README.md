@@ -1,5 +1,7 @@
 # button layout
 
+![alt text](https://github.com/amanrock005/basicCalculator/blob/master/buttonlayout.PNG)
+
 
 
 ## Getting Started
